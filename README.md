@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go fiber, Gin, Mux,**
 
-- 💬 Ask me about **Golang, REST-API, Database, Web Security**
+- 💬 Ask me about **Golang, REST-API, Database, Authentication, Middleware**
 
 - 📫 How to reach me **linkrian28@gmail.com**
 
