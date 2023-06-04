@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rian</h1>
 <h3 align="center">A passionate Backend web developer with GO from Indonesia</h3>
 
-- 🌱 I’m currently learning **Go fiber, Gin, Mux,**
+- 🌱 I’m currently learning **Golang, MongoDB, Docker, Third-Party APIs**
 
 - 💬 Ask me about **Golang, REST-API, Database, Authentication, Middleware**
 
