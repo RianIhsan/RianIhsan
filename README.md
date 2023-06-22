@@ -1,6 +1,10 @@
+<br clear="both">
+
 <h3 align="left">Hai aku Rian, dari Bandung, Indonesia</h3>
 
 ###
+
+<br clear="both">
 
 <p align="left">Aku biasa dipanggil Yon, aku seorang mahasiswa Teknik Informatika disalah satu kampus swasta dibandung. Aku punya minat dibagian Web Developer khususnya dibagian Backend Development menggunakan bahasa Go. Aku juga terbiasa dengan sistem operasi GNU Linux dikarenakan memudhkan aku dalam proses development.</p>
 
@@ -41,7 +45,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RianIhsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=My Fav Stack " height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RianIhsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
