@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Aku biasa dipanggil Yon, aku seorang mahasiswa Teknik Informatika disalah satu kampus swasta dibandung. Aku punya minat dibagian Web Developer khususnya dibagian Backend Development menggunakan bahasa Go. Aku juga terbiasa dengan sistem operasi GNU Linux dikarenakan memudahkan aku dalam proses development.</p>
+<p align="left">Aku biasa dipanggil Yon, aku seorang mahasiswa Teknik Informatika disalah satu kampus swasta dibandung. Aku punya minat dibagian Web Developer khususnya dibagian Backend Development menggunakan bahasa Go dan Javascript. Aku juga terbiasa dengan sistem operasi GNU Linux dikarenakan memudahkan aku dalam proses development.</p>
 
 ###
 
